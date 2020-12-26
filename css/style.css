@@ -10,7 +10,6 @@ header{
 .container {
 	overflow: hidden;
 	width: 80%;
-	border: 1px solid white;
 	margin: 0 auto;
 }
 
@@ -25,7 +24,6 @@ header{
 .menu{
 	float: right;
 	width: 70%;
-	border: 1px solid white;
 	margin-top: 60px;
 }
 
